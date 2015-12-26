@@ -1,6 +1,13 @@
-# README #
+# RPi Backup
 
-RPi Backup
+Raspberry Pi Backup Script by Fabrizio Alberti alias technofab contacts: http://about.me/technofab - email: iltechnofab@gmail.com
+Disclaimer: These software are allowed to use under GPL license by technofab refer to http://www.gnu.org/licenses/gpl.html
+
+To install the script do:
+If you have a shell access git clone https://github.com/technofab/rpibackup.git
+else download, unzip and upload to your shell normally.
+
+
 
 Benvenuto su queste pagine. 
 RPi Backup si propone di essere un semplice interfaccia per fare backup e 

@@ -2,6 +2,10 @@
 
 # Changelog
 
+
+# Versione 0.2b - 26/12/2015
+# Passaggio a GitHub per il controllo delle versioni
+#
 # Versione 0.2a - 12/07/2014
 # Passaggio a BitBucket per il controllo delle versioni
 #
@@ -11,10 +15,10 @@
 #############################################################
 
 # Variabili iniziali
-versione="0.2a"
-data="08 luglio 2014"
+versione="0.2b"
+data="26 dicembre 2015"
 titolo="RPi Backup $versione"
-sottotitolo="Utility salvataggio Raspberry Pi versione $versione del $data"
+sottotitolo="Utility backup Raspberry Pi versione $versione del $data"
 
 # ************ Funzioni varie **************
 
