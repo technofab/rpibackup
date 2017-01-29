@@ -27,4 +27,4 @@ Goal is make a USB key to boot up a PC, to clone or only backup, Raspberry Pi
 working images.
 The script is maintened in BitBucket GIT System because it is an OpenSource project.
 
-Bye bye from technofab!
+Bye bye from technofab.
